@@ -31,6 +31,7 @@ Die Studierende erlernen grundsätzliche Methoden zur Erhebung und Interpretatio
 ###Zeitplan
 
 |Woche|Topic|
+|-----|-----|
 |||
 |||
 |||
