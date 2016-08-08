@@ -1,8 +1,7 @@
 #WP49.2 Datenverarbeitung in der Palaeontologie und Geobiologie
 
 ##Dr. Sergio Vargas R.
-###WiSe 2016-2017
-###3 ECTS | Übung
+###WiSe 2016-2017 | 3 ECTS | Übung
 
 Das Modul vermittelt die Grundlagen, Prinzipien un Konzepte des wissenschaftlichen Arbeitens sowie der Datenverarbeitung in der Paläo- und Geobiologie.
 
@@ -30,8 +29,26 @@ Die Studierende erlernen grundsätzliche Methoden zur Erhebung und Interpretatio
 
 ###Zeitplan
 
-|Woche|Topic|
-|-----|-----|
-|||
-|||
-|||
+|Termin|Datum|Topic|
+|------|-----|-----|
+|1|19.10.2016||
+|2|26.10.2016||
+|3|02.11.2016||
+|4|09.11.2016||
+|5|16.11.2016||
+|6|23.11.2016||
+|7|30.11.2016||
+|8|07.12.2016||
+|9|14.12.2016||
+|10|21.12.2016||
+|11|11.01.2017||
+|12|18.01.2017||
+|13|25.01.2017||
+|14|01.02.2017||
+|15|08.02.2017||
+
+
+
+
+
+
