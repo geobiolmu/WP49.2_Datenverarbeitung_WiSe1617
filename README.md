@@ -15,6 +15,7 @@ Nach Besuch des Moduls die Studierende:
 * können Ihre Resultate in Form eines Vortrags einem Publikum vermitteln.
 
 **Hauptziel**
+
 Die Studierende erlernen grundsätzliche Methoden zur Erhebung und Interpretation von Daten in spezifischen paläontologisch/geobiologischen Arbeitgebieten.
 
 **Ziele**
@@ -27,3 +28,9 @@ Die Studierende erlernen grundsätzliche Methoden zur Erhebung und Interpretatio
 * beherrschen die wichtigste Methoden der modernen wissenschaftlichen Datenverarbeitung.
 * selbständing Daten bewerten/analysieren und die Resultate schriftlich oder mündlich vermitteln.
 
+###Zeitplan
+
+|Woche|Topic|
+|||
+|||
+|||
