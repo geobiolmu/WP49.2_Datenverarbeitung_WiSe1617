@@ -30,7 +30,7 @@ Die Studierende erlernen grundsätzliche Methoden zur Erhebung und Interpretatio
 ###Zeitplan
 
 |Termin|Datum|Topic|
-|------|-----|-----|
+|:------:|:-----:|:-----:|
 |1|19.10.2016|Einleitung, *formalia*, Motivation, Vorwissen|
 |2|26.10.2016||
 |3|02.11.2016||
