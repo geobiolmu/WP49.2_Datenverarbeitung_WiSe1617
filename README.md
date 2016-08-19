@@ -34,10 +34,10 @@ Die Studierende erlernen grundsätzliche Methoden zur Erhebung und Interpretatio
 |1|19.10.2016|*Formalia*, Motivation, Vorwissen, Einleitung|
 |2|26.10.2016|GNU-Linux, Latex-Markdown, R-RStudio, Git-Github|
 |3|02.11.2016|Transparenz und wiederholbarkeit|
-|4|09.11.2016|Programmieren in R: einleitung|
-|5|16.11.2016|Daten in der Paleo- und Geobiologie|
-|6|23.11.2016|Datensätze vernünftig beschreiben|
-|7|30.11.2016|Abbildungen: einleitung in ggplot2|
+|4|09.11.2016|Daten in der Paleo- und Geobiologie|
+|5|16.11.2016|Datensätze vernünftig beschreiben und dokumentieren|
+|6|23.11.2016|Programmieren in R: einführung|
+|7|30.11.2016|Abbildungen: einführung in ggplot2|
 |8|07.12.2016|Abbildungen interpretieren und anderen erklären|
 |9|14.12.2016|Daten erheben und hypothesen prüfen|
 |10|21.12.2016|Statistische tests 1|
