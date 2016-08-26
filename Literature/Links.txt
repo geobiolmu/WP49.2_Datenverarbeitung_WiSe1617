@@ -3,3 +3,7 @@ The Guardian.
 https://www.theguardian.com/science/political-science/2016/apr/12/how-can-we-keep-science-honest-in-a-world-of-open-data 
 
 
+Reproducibility crisis blog post
+http://www.scientificamerican.com/video/is-there-a-reproducibility-crisis-in-science/
+https://www.sciencebasedmedicine.org/is-there-a-reproducibility-crisis-in-biomedical-science-no-but-there-is-a-reproducibility-problem
+
