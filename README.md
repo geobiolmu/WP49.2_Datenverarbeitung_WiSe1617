@@ -32,7 +32,7 @@ Die Studierende erlernen grundsätzliche Methoden zur Erhebung und Interpretatio
 |Termin|Datum|Topic|
 |:------:|:-----:|:-----:|
 |1|19.10.2016|*Formalia*, Motivation, Vorwissen, Einleitung|
-|2|26.10.2016|GNU-Linux, Latex-Markdown, R-RStudio, Git-Github|
+|2|26.10.2016|GNU-Linux (Bio-Linux), Latex-Markdown, R-RStudio, Git-Github|
 |3|02.11.2016|Transparenz und wiederholbarkeit|
 |4|09.11.2016|Daten in der Paleo- und Geobiologie|
 |5|16.11.2016|Datensätze vernünftig beschreiben und dokumentieren|
